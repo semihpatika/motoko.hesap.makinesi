@@ -1,1 +1,1 @@
-# motoko.hesap.makinesi
+motoko dilinde hazırlanmış bir hesap makinesi.
